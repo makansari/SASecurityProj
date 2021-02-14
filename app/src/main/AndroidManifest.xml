@@ -10,10 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SASecurityProj">
 
-
         <activity android:name=".SecurityActivity">
-
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
